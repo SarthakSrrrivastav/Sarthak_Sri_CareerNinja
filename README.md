@@ -1,6 +1,8 @@
 # Sarthak_Sri_CareerNinja
-This is the Assingment Code
 
+
+
+### Fill the Openai-API-Key
 ### Make sure to install all the dependecies for smooth run
 ### I have given requirement.txt file for the required libraries
 ### In Notebook , comments are made for better understanding
